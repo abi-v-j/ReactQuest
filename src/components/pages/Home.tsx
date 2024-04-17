@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <Fragment>
       <Navbar />
-      <Card>Hello</Card>
+      <Card sx={{p:2}}>"Success is not about the destination, but the journey taken to get there; every stumble is a step towards strength, and every setback a lesson in resilience."</Card>
     </Fragment>
   );
 };
